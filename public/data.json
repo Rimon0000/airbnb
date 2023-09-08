@@ -10,8 +10,7 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "House",
-          "check_in_date": "2023-11-15",
-          "check_out_date": "2023-11-20",
+          "date": "jan 8-13",
           "guests": 3
         },
         {
@@ -24,9 +23,8 @@
           "beds": 1,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2023-12-10",
-          "check_out_date": "2023-12-15",
-          "guests": 2
+          "guests": 2,
+          "date": "Dec 8-12"
         },
         {
           "photo": "https://i.ibb.co/9G2fTJX/t3.webp",
@@ -38,9 +36,8 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-01-05",
-          "check_out_date": "2024-01-10",
-          "guests": 3
+          "guests": 3,
+          "date": "Jan 16-21"
         },
         {
           "photo": "https://i.ibb.co/q76VtSc/tropical1.webp",
@@ -52,9 +49,8 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-02-15",
-          "check_out_date": "2024-02-20",
-          "guests": 2
+          "guests": 2,
+          "date": "Feb 22-27"
         },
         {
           "photo": "https://i.ibb.co/bWt9bF0/tropical.webp",
@@ -66,9 +62,8 @@
           "beds": 1,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-03-10",
-          "check_out_date": "2024-03-15",
-          "guests": 2
+          "guests": 2,
+          "date": "Mar 8-12"
         },
         {
           "photo": "https://i.ibb.co/WzjR4P6/country2.webp",
@@ -80,9 +75,8 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-04-05",
-          "check_out_date": "2024-04-10",
-          "guests": 2
+          "guests": 2,
+          "date": "Apr 16-21"
         },
         {
           "photo": "https://i.ibb.co/fG6qJpY/country.webp",
@@ -94,9 +88,8 @@
           "beds": 1,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-05-15",
-          "check_out_date": "2024-05-20",
-          "guests": 2
+          "guests": 2,
+          "date": "May 25-30"
         },
         {
           "photo": "https://i.ibb.co/6NqWpS6/room8.webp",
@@ -108,9 +101,8 @@
           "beds": 1,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-06-05",
-          "check_out_date": "2024-06-10",
-          "guests": 2
+          "guests": 2,
+          "date": "Jun 8-12"
         },
         {
           "photo": "https://i.ibb.co/Z1xdcxW/room7.webp",
@@ -122,9 +114,8 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-07-15",
-          "check_out_date": "2024-07-20",
-          "guests": 2
+          "guests": 2,
+          "date": "Jul 16-21"
         },
         {
           "photo": "https://i.ibb.co/rb6pMVx/room6.webp",
@@ -136,9 +127,8 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-08-05",
-          "check_out_date": "2024-08-10",
-          "guests": 2
+          "guests": 2,
+          "date": "Aug 25-30"
         },
         {
           "photo": "https://i.ibb.co/CBgQw7S/room5.webp",
@@ -150,9 +140,8 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-09-15",
-          "check_out_date": "2024-09-20",
-          "guests": 2
+          "guests": 2,
+          "date": "Sep 8-12"
         },
         {
           "photo": "https://i.ibb.co/tZvsyns/room4.webp",
@@ -164,9 +153,8 @@
           "beds": 1,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-10-05",
-          "check_out_date": "2024-10-10",
-          "guests": 2
+          "guests": 2,
+          "date": "Oct 22-27"
         },
         {
           "photo": "https://i.ibb.co/2F2dGRM/room3.webp",
@@ -178,9 +166,8 @@
           "beds": 3,
           "bathrooms": 2,
           "property_type": "House",
-          "check_in_date": "2024-01-05",
-          "check_out_date": "2024-01-10",
-          "guests": 4
+          "guests": 4,
+          "date": "Jan 8-12"
         },
         {
           "photo": "https://i.ibb.co/BGqpYJ7/room2.webp",
@@ -192,9 +179,8 @@
           "beds": 4,
           "bathrooms": 3,
           "property_type": "House",
-          "check_in_date": "2024-02-15",
-          "check_out_date": "2024-02-20",
-          "guests": 6
+          "guests": 6,
+          "date": "Feb 16-21"
         },
         {
           "photo": "https://i.ibb.co/q9nBmCK/room.webp",
@@ -206,12 +192,11 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "House",
-          "check_in_date": "2024-03-10",
-          "check_out_date": "2024-03-15",
-          "guests": 3
+          "guests": 3,
+          "date": "Mar 22-27"
         },
         {
-          "photo": "https://i.ibb.co/fQnMqFz/bed9.webp",
+          "photo": "https://i.ibb.co/HG2Kkm8/city9.webp",
           "subcategory": "Countryside",
           "price": 280,
           "rating": "4.6",
@@ -220,9 +205,8 @@
           "beds": 3,
           "bathrooms": 2,
           "property_type": "House",
-          "check_in_date": "2024-04-15",
-          "check_out_date": "2024-04-20",
-          "guests": 5
+          "guests": 5,
+          "date": "Apr 8-12"
         },
         {
           "photo": "https://i.ibb.co/Kwj8jLv/bed7.webp",
@@ -234,9 +218,8 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "House",
-          "check_in_date": "2024-05-05",
-          "check_out_date": "2024-05-10",
-          "guests": 4
+          "guests": 4,
+          "date": "May 16-21"
         },
         {
           "photo": "https://i.ibb.co/YfPXtJd/bed5.webp",
@@ -248,12 +231,11 @@
           "beds": 4,
           "bathrooms": 3,
           "property_type": "House",
-          "check_in_date": "2024-06-15",
-          "check_out_date": "2024-06-20",
-          "guests": 6
+          "guests": 6,
+          "date": "Jun 22-27"
         },
         {
-          "photo": "https://i.ibb.co/HPcWmKK/bed2.webp",
+          "photo": "https://i.ibb.co/WzjR4P6/country2.webp",
           "subcategory": "Countryside",
           "price": 230,
           "rating": "4.3",
@@ -262,9 +244,8 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "House",
-          "check_in_date": "2024-07-05",
-          "check_out_date": "2024-07-10",
-          "guests": 3
+          "guests": 3,
+          "date": "Jul 8-12"
         },
         {
           "photo": "https://i.ibb.co/bBJDz1c/bed.webp",
@@ -276,9 +257,8 @@
           "beds": 3,
           "bathrooms": 2,
           "property_type": "House",
-          "check_in_date": "2024-08-15",
-          "check_out_date": "2024-08-20",
-          "guests": 5
+          "guests": 5,
+          "date": "Aug 16-21"
         },
         {
           "photo": "https://i.ibb.co/hVWq7hR/mansion10.webp",
@@ -290,9 +270,8 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "House",
-          "check_in_date": "2024-09-05",
-          "check_out_date": "2024-09-10",
-          "guests": 4
+          "guests": 4,
+          "date": "Sep 22-27"
         },
         {
           "photo": "https://i.ibb.co/h14kx4t/mansion8.webp",
@@ -304,9 +283,8 @@
           "beds": 3,
           "bathrooms": 2,
           "property_type": "House",
-          "check_in_date": "2024-10-15",
-          "check_out_date": "2024-10-20",
-          "guests": 6
+          "guests": 6,
+          "date": "Nov 8-12"
         },
         {
           "photo": "https://i.ibb.co/9vzvTVc/mansion7.webp",
@@ -318,24 +296,22 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "House",
-          "check_in_date": "2024-11-05",
-          "check_out_date": "2024-11-10",
-          "guests": 3
+          "guests": 3,
+          "date": "Dec 16-21"
         },
         {
-          "photo": "https://i.ibb.co/c3jyvLh/mansion6.webp",
+          "photo": "https://i.ibb.co/fG6qJpY/country.webp",
           "subcategory": "Countryside",
-          "price": 200,
-          "rating": "4.9",
-          "location": "Upstate New York, USA",
-          "description": "Cozy cabin in the Adirondack Mountains",
-          "beds": 2,
+          "price": 580,
+          "rating": "4.3",
+          "location": "Sydney, Australia",
+          "description": "Quaint cottage Sydney",
+          "beds": 1,
           "bathrooms": 1,
           "property_type": "House",
-          "check_in_date": "2024-12-05",
-          "check_out_date": "2024-12-10",
-          "guests": 4
-        },  
+          "guests": 3,
+          "date": "Aug 16-21"
+        },
         {
           "photo": "https://i.ibb.co/WDbpQDK/mansion4.webp",
           "subcategory": "Tropical",
@@ -346,9 +322,8 @@
           "beds": 4,
           "bathrooms": 3,
           "property_type": "Guesthouse",
-          "check_in_date": "2024-01-05",
-          "check_out_date": "2024-01-10",
-          "guests": 6
+          "guests": 6,
+          "date": "Jan 8-12"
         },
         {
           "photo": "https://i.ibb.co/q76VtSc/tropical1.webp",
@@ -360,9 +335,8 @@
           "beds": 1,
           "bathrooms": 1,
           "property_type": "House",
-          "check_in_date": "2024-02-15",
-          "check_out_date": "2024-02-20",
-          "guests": 2
+          "guests": 2,
+          "date": "Feb 16-21"
         },
         {
           "photo": "https://i.ibb.co/zFfhGBx/mansion3.webp",
@@ -374,9 +348,8 @@
           "beds": 2,
           "bathrooms": 2,
           "property_type": "Apartment",
-          "check_in_date": "2024-03-10",
-          "check_out_date": "2024-03-15",
-          "guests": 4
+          "guests": 4,
+          "date": "Mar 22-27"
         },
         {
           "photo": "https://i.ibb.co/vdybpHJ/mansion2.webp",
@@ -388,9 +361,8 @@
           "beds": 3,
           "bathrooms": 2,
           "property_type": "House",
-          "check_in_date": "2024-04-05",
-          "check_out_date": "2024-04-10",
-          "guests": 5
+          "guests": 5,
+          "date": "Apr 8-12"
         },
         {
           "photo": "https://i.ibb.co/njXKSvG/mansion.webp",
@@ -402,9 +374,8 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "Guesthouse",
-          "check_in_date": "2024-05-15",
-          "check_out_date": "2024-05-20",
-          "guests": 3
+          "guests": 3,
+          "date": "May 16-21"
         },
         {
           "photo": "https://i.ibb.co/dBPgBny/camp7.webp",
@@ -416,9 +387,8 @@
           "beds": 1,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-06-05",
-          "check_out_date": "2024-06-10",
-          "guests": 2
+          "guests": 2,
+          "date": "Jun 22-27"
         },
         {
           "photo": "https://i.ibb.co/HgjGFT2/camp5.webp",
@@ -430,9 +400,8 @@
           "beds": 4,
           "bathrooms": 3,
           "property_type": "House",
-          "check_in_date": "2024-07-15",
-          "check_out_date": "2024-07-20",
-          "guests": 6
+          "guests": 6,
+          "date": "Jul 8-12"
         },
         {
           "photo": "https://i.ibb.co/7RCbm4t/camp4.webp",
@@ -444,9 +413,8 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "Guesthouse",
-          "check_in_date": "2024-08-05",
-          "check_out_date": "2024-08-10",
-          "guests": 4
+          "guests": 4,
+          "date": "Aug 16-21"
         },
         {
           "photo": "https://i.ibb.co/SPDWPc0/camp3.webp",
@@ -458,9 +426,8 @@
           "beds": 3,
           "bathrooms": 2,
           "property_type": "House",
-          "check_in_date": "2024-09-15",
-          "check_out_date": "2024-09-20",
-          "guests": 5
+          "guests": 5,
+          "date": "Sep 8-12"
         },
         {
           "photo": "https://i.ibb.co/kGJX3w1/amp2.webp",
@@ -472,9 +439,8 @@
           "beds": 2,
           "bathrooms": 2,
           "property_type": "Apartment",
-          "check_in_date": "2024-10-05",
-          "check_out_date": "2024-10-10",
-          "guests": 4
+          "guests": 4,
+          "date": "Oct 16-21"
         },
         {
           "photo": "https://i.ibb.co/Wgx2hyB/camp.webp",
@@ -486,9 +452,8 @@
           "beds": 3,
           "bathrooms": 2,
           "property_type": "House",
-          "check_in_date": "2024-11-15",
-          "check_out_date": "2024-11-20",
-          "guests": 5
+          "guests": 5,
+          "date": "Nov 22-27"
         },
         {
           "photo": "https://i.ibb.co/Wgx2hyB/camp.webp",
@@ -500,540 +465,476 @@
           "beds": 2,
           "bathrooms": 1,
           "property_type": "Apartment",
-          "check_in_date": "2024-12-05",
-          "check_out_date": "2024-12-10",
-          "guests": 3
-        },      
-        {
-          "photo": "https://i.ibb.co/c3m5r81/beach6.webp",
-          "subcategory": "New",
-          "price": 200,
-          "rating": "4.5",
-          "location": "New York City, USA",
-          "description": "Modern apartment in the heart of Manhattan",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Apartment",
-          "check_in_date": "2024-01-05",
-          "check_out_date": "2024-01-10",
-          "guests": 2
+          "guests": 3,
+          "date": "Dec 8-12"
         },
-        {
-          "photo": "https://i.ibb.co/JKC44HP/beach5.webp",
-          "subcategory": "New",
-          "price": 180,
-          "rating": "4.2",
-          "location": "New Orleans, USA",
-          "description": "Cozy guesthouse in the French Quarter",
-          "beds": 1,
-          "bathrooms": 1,
-          "property_type": "Guesthouse",
-          "check_in_date": "2024-02-15",
-          "check_out_date": "2024-02-20",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/WpzcBd6/beach3.webp",
-          "subcategory": "New",
-          "price": 220,
-          "rating": "4.8",
-          "location": "New Zealand",
-          "description": "Mountain retreat in the New Zealand Alps",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "House",
-          "check_in_date": "2024-03-10",
-          "check_out_date": "2024-03-15",
-          "guests": 4
-        },
-        {
-          "photo": "https://i.ibb.co/vh0BXyZ/beach2.webp",
-          "subcategory": "New",
-          "price": 250,
-          "rating": "4.6",
-          "location": "Newfoundland, Canada",
-          "description": "Seaside cottage in the Canadian wilderness",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "House",
-          "check_in_date": "2024-04-05",
-          "check_out_date": "2024-04-10",
-          "guests": 3
-        },
-        {
-          "photo": "https://i.ibb.co/JKC44HP/beach5.webp",
-          "subcategory": "New",
-          "price": 260,
-          "rating": "4.7",
-          "location": "New Delhi, India",
-          "description": "Historic guesthouse in Old Delhi",
-          "beds": 4,
-          "bathrooms": 2,
-          "property_type": "Guesthouse",
-          "check_in_date": "2024-05-15",
-          "check_out_date": "2024-05-20",
-          "guests": 5
-        },
-        {
-          "photo": "https://i.ibb.co/WpzcBd6/beach3.webp",
-          "subcategory": "New",
-          "price": 240,
-          "rating": "4.4",
-          "location": "Newcastle, UK",
-          "description": "Riverside apartment in the heart of Newcastle",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Apartment",
-          "check_in_date": "2024-06-05",
-          "check_out_date": "2024-06-10",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/vh0BXyZ/beach2.webp",
-          "subcategory": "New",
-          "price": 230,
-          "rating": "4.9",
-          "location": "New Hampshire, USA",
-          "description": "Mountain cabin in the White Mountains",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "House",
-          "check_in_date": "2024-07-15",
-          "check_out_date": "2024-07-20",
-          "guests": 4
-        },
-        {
-          "photo": "https://i.ibb.co/JKC44HP/beach5.webp",
-          "subcategory": "New",
-          "price": 210,
-          "rating": "4.5",
-          "location": "Newfoundland, Canada",
-          "description": "Log cabin by a tranquil lake",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "House",
-          "check_in_date": "2024-08-05",
-          "check_out_date": "2024-08-10",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/HG2Kkm8/city9.webp",
-          "subcategory": "New",
-          "price": 280,
-          "rating": "4.6",
-          "location": "New Orleans, USA",
-          "description": "Antebellum mansion in the Garden District",
-          "beds": 4,
-          "bathrooms": 3,
-          "property_type": "House",
-          "check_in_date": "2024-09-15",
-          "check_out_date": "2024-09-20",
-          "guests": 6
-        },
-        {
-          "photo": "https://i.ibb.co/MDk9nQS/city8.webp",
-          "subcategory": "New",
-          "price": 190,
-          "rating": "4.7",
-          "location": "New York City, USA",
-          "description": "Chic apartment in Brooklyn",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Apartment",
-          "check_in_date": "2024-10-05",
-          "check_out_date": "2024-10-10",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/7pnxLfz/city6.webp",
-          "subcategory": "New",
-          "price": 270,
-          "rating": "4.8",
-          "location": "New Zealand",
-          "description": "Lakefront house with mountain views",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "House",
-          "check_in_date": "2024-11-15",
-          "check_out_date": "2024-11-20",
-          "guests": 4
-        },
-        {
-          "photo": "https://i.ibb.co/D1c2jSb/vity5.webp",
-          "subcategory": "New",
-          "price": 200,
-          "rating": "4.6",
-          "location": "Newcastle, UK",
-          "description": "Modern apartment with city views",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Apartment",
-          "check_in_date": "2024-12-05",
-          "check_out_date": "2024-12-10",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/qsB3XMC/city4.webp",
-          "subcategory": "New",
-          "price": 210,
-          "rating": "4.7",
-          "location": "New Delhi, India",
-          "description": "Spacious guesthouse in South Delhi",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "Guesthouse",
-          "check_in_date": "2025-01-05",
-          "check_out_date": "2025-01-10",
-          "guests": 4
-        },
-        {
-          "photo": "https://i.ibb.co/KycgfbM/city3.webp",
-          "subcategory": "New",
-          "price": 230,
-          "rating": "4.9",
-          "location": "New Zealand",
-          "description": "Seaside apartment in Auckland",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Apartment",
-          "check_in_date": "2025-02-15",
-          "check_out_date": "2025-02-20",
-          "guests": 2
-        },   
-        {
-          "photo": "https://i.ibb.co/PmfH3MB/city2.webp",
-          "subcategory": "Cabins",
-          "price": 180,
-          "rating": "4.5",
-          "location": "Aspen, Colorado, USA",
-          "description": "Cozy guesthouse in the Rocky Mountains",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Guesthouse",
-          "check_in_date": "2024-01-05",
-          "check_out_date": "2024-01-10",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/MsWhkR6/city.webp",
-          "subcategory": "Cabins",
-          "price": 160,
-          "rating": "4.2",
-          "location": "Tahoe, California, USA",
-          "description": "Secluded house by the lake",
-          "beds": 1,
-          "bathrooms": 1,
-          "property_type": "House",
-          "check_in_date": "2024-02-15",
-          "check_out_date": "2024-02-20",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/vmS3Zmw/t4.webp",
-          "subcategory": "Cabins",
-          "price": 200,
-          "rating": "4.8",
-          "location": "Whistler, Canada",
-          "description": "Rustic apartment in the Canadian wilderness",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "Apartment",
-          "check_in_date": "2024-03-10",
-          "check_out_date": "2024-03-15",
-          "guests": 4
-        },
-        {
-          "photo": "https://i.ibb.co/9G2fTJX/t3.webp",
-          "subcategory": "Cabins",
-          "price": 220,
-          "rating": "4.6",
-          "location": "Breckenridge, Colorado, USA",
-          "description": "Ski-in/ski-out house in the Rockies",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "House",
-          "check_in_date": "2024-04-05",
-          "check_out_date": "2024-04-10",
-          "guests": 3
-        },
-        {
-          "photo": "https://i.ibb.co/q76VtSc/tropical1.webp",
-          "subcategory": "Cabins",
-          "price": 250,
-          "rating": "4.7",
-          "location": "Big Sur, California, USA",
-          "description": "Cliffside guesthouse with ocean views",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "Guesthouse",
-          "check_in_date": "2024-05-15",
-          "check_out_date": "2024-05-20",
-          "guests": 4
-        },
-        {
-          "photo": "https://i.ibb.co/bWt9bF0/tropical.webp",
-          "subcategory": "Cabins",
-          "price": 210,
-          "rating": "4.5",
-          "location": "Lake Tahoe, California, USA",
-          "description": "Lakefront apartment in the Sierra Nevada",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Apartment",
-          "check_in_date": "2024-06-05",
-          "check_out_date": "2024-06-10",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/WzjR4P6/country2.webp",
-          "subcategory": "Cabins",
-          "price": 230,
-          "rating": "4.9",
-          "location": "Banff, Canada",
-          "description": "Cabin in the heart of Banff National Park",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Guesthouse",
-          "check_in_date": "2024-07-15",
-          "check_out_date": "2024-07-20",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/fG6qJpY/country.webp",
-          "subcategory": "Cabins",
-          "price": 200,
-          "rating": "4.6",
-          "location": "Adirondacks, New York, USA",
-          "description": "Log cabin by a tranquil lake",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "House",
-          "check_in_date": "2024-08-05",
-          "check_out_date": "2024-08-10",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/6NqWpS6/room8.webp",
-          "subcategory": "Cabins",
-          "price": 280,
-          "rating": "4.6",
-          "location": "Gatlinburg, Tennessee, USA",
-          "description": "Luxury apartment with mountain views",
-          "beds": 4,
-          "bathrooms": 3,
-          "property_type": "Apartment",
-          "check_in_date": "2024-09-15",
-          "check_out_date": "2024-09-20",
-          "guests": 6
-        },
-        {
-          "photo": "https://i.ibb.co/BGqpYJ7/room2.webp",
-          "subcategory": "Cabins",
-          "price": 190,
-          "rating": "4.7",
-          "location": "North Conway, New Hampshire, USA",
-          "description": "Charming house in the White Mountains",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "House",
-          "check_in_date": "2024-10-05",
-          "check_out_date": "2024-10-10",
-          "guests": 4
-        },
-        {
-          "photo": "https://i.ibb.co/Z1xdcxW/room7.webp",
-          "subcategory": "Cabins",
-          "price": 270,
-          "rating": "4.8",
-          "location": "Sequoia National Park, California, USA",
-          "description": "Secluded cabin in the giant forest",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "House",
-          "check_in_date": "2024-11-15",
-          "check_out_date": "2024-11-20",
-          "guests": 4
-        },
-        {
-          "photo": "https://i.ibb.co/CBgQw7S/room5.webp",
-          "subcategory": "Cabins",
-          "price": 220,
-          "rating": "4.9",
-          "location": "Rocky Mountain National Park, Colorado, USA",
-          "description": "Riverside guesthouse in the Rockies",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Guesthouse",
-          "check_in_date": "2024-12-05",
-          "check_out_date": "2024-12-10",
-          "guests": 2
-        },                      
-        {
-          "photo": "https://i.ibb.co/Kwj8jLv/bed7.webp",
-          "subcategory": "Beach",
-          "price": 300,
-          "rating": "4.7",
-          "location": "Malibu, California, USA",
-          "description": "Beachfront guesthouse with ocean views",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Guesthouse",
-          "check_in_date": "2025-05-15",
-          "check_out_date": "2025-05-20",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/YfPXtJd/bed5.webp",
-          "subcategory": "Beach",
-          "price": 250,
-          "rating": "4.6",
-          "location": "Maui, Hawaii, USA",
-          "description": "Beachfront house in paradise",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "House",
-          "check_in_date": "2025-06-05",
-          "check_out_date": "2025-06-10",
-          "guests": 4
-        },
-        {
-          "photo": "https://i.ibb.co/bBJDz1c/bed.webp",
-          "subcategory": "Beach",
-          "price": 220,
-          "rating": "4.5",
-          "location": "Cancun, Mexico",
-          "description": "Beachfront apartment with a view",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Apartment",
-          "check_in_date": "2025-07-15",
-          "check_out_date": "2025-07-20",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/hVWq7hR/mansion10.webp",
-          "subcategory": "Beach",
-          "price": 320,
-          "rating": "4.8",
-          "location": "Phuket, Thailand",
-          "description": "Luxury beachfront villa with a pool",
-          "beds": 4,
-          "bathrooms": 3,
-          "property_type": "House",
-          "check_in_date": "2025-08-05",
-          "check_out_date": "2025-08-10",
-          "guests": 6
-        },
-        {
-          "photo": "https://i.ibb.co/h14kx4t/mansion8.webp",
-          "subcategory": "Beach",
-          "price": 280,
-          "rating": "4.7",
-          "location": "Bali, Indonesia",
-          "description": "Beachfront guesthouse in Bali",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "Guesthouse",
-          "check_in_date": "2025-09-15",
-          "check_out_date": "2025-09-20",
-          "guests": 4
-        },
-        {
-          "photo": "https://i.ibb.co/9vzvTVc/mansion7.webp",
-          "subcategory": "Beach",
-          "price": 350,
-          "rating": "4.9",
-          "location": "Seychelles",
-          "description": "Private beachfront villa in Seychelles",
-          "beds": 4,
-          "bathrooms": 3,
-          "property_type": "House",
-          "check_in_date": "2025-10-05",
-          "check_out_date": "2025-10-10",
-          "guests": 6
-        },
-        {
-          "photo": "https://i.ibb.co/c3jyvLh/mansion6.webp",
-          "subcategory": "Beach",
-          "price": 200,
-          "rating": "4.6",
-          "location": "Miami Beach, Florida, USA",
-          "description": "Beachfront apartment in Miami",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Apartment",
-          "check_in_date": "2025-11-15",
-          "check_out_date": "2025-11-20",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/WDbpQDK/mansion4.webp",
-          "subcategory": "Beach",
-          "price": 300,
-          "rating": "4.7",
-          "location": "Mauritius",
-          "description": "Beachfront house with a view in Mauritius",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "House",
-          "check_in_date": "2025-12-05",
-          "check_out_date": "2025-12-10",
-          "guests": 4
-        },
-        {
-          "photo": "https://i.ibb.co/Wgx2hyB/camp.webp",
-          "subcategory": "Beach",
-          "price": 220,
-          "rating": "4.5",
-          "location": "Rio de Janeiro, Brazil",
-          "description": "Beachfront apartment in Copacabana",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Apartment",
-          "check_in_date": "2026-01-05",
-          "check_out_date": "2026-01-10",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/JKC44HP/beach5.webp",
-          "subcategory": "Beach",
-          "price": 320,
-          "rating": "4.8",
-          "location": "Bora Bora, French Polynesia",
-          "description": "Overwater bungalow in paradise",
-          "beds": 1,
-          "bathrooms": 1,
-          "property_type": "House",
-          "check_in_date": "2026-02-15",
-          "check_out_date": "2026-02-20",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/SPDWPc0/camp3.webp",
-          "subcategory": "Beach",
-          "price": 250,
-          "rating": "4.6",
-          "location": "Barbados",
-          "description": "Beachfront apartment in Barbados",
-          "beds": 2,
-          "bathrooms": 1,
-          "property_type": "Apartment",
-          "check_in_date": "2026-03-10",
-          "check_out_date": "2026-03-15",
-          "guests": 2
-        },
-        {
-          "photo": "https://i.ibb.co/7RCbm4t/camp4.webp",
-          "subcategory": "Beach",
-          "price": 280,
-          "rating": "4.7",
-          "location": "Phuket, Thailand",
-          "description": "Beachfront villa in Phuket",
-          "beds": 3,
-          "bathrooms": 2,
-          "property_type": "House",
-          "check_in_date": "2026-04-05",
-          "check_out_date": "2026-04-10",
-          "guests": 4
-        } 
+          {
+            "photo": "https://i.ibb.co/c3m5r81/beach6.webp",
+            "subcategory": "New",
+            "price": 200,
+            "rating": "4.5",
+            "location": "New York City, USA",
+            "description": "Modern apartment in the heart of Manhattan",
+            "beds": 2,
+            "bathrooms": 1,
+            "property_type": "Apartment",
+            "guests": 2,
+            "date": "Jan 8-12"
+          },
+          {
+            "photo": "https://i.ibb.co/JKC44HP/beach5.webp",
+            "subcategory": "New",
+            "price": 180,
+            "rating": "4.2",
+            "location": "New Orleans, USA",
+            "description": "Cozy guesthouse in the French Quarter",
+            "beds": 1,
+            "bathrooms": 1,
+            "property_type": "Guesthouse",
+            "guests": 2,
+            "date": "Feb 15-20"
+          },
+          {
+            "photo": "https://i.ibb.co/WpzcBd6/beach3.webp",
+            "subcategory": "New",
+            "price": 220,
+            "rating": "4.8",
+            "location": "New Zealand",
+            "description": "Mountain retreat in the New Zealand Alps",
+            "beds": 3,
+            "bathrooms": 2,
+            "property_type": "House",
+            "guests": 4,
+            "date": "Mar 10-15"
+          },
+          {
+            "photo": "https://i.ibb.co/zFfhGBx/mansion3.webp",
+            "subcategory": "New",
+            "price": 250,
+            "rating": "4.6",
+            "location": "Newfoundland, Canada",
+            "description": "Seaside cottage in the Canadian wilderness",
+            "beds": 2,
+            "bathrooms": 1,
+            "property_type": "House",
+            "guests": 3,
+            "date": "Apr 5-10"
+          },
+          {
+            "photo": "https://i.ibb.co/JKC44HP/beach5.webp",
+            "subcategory": "New",
+            "price": 260,
+            "rating": "4.7",
+            "location": "New Delhi, India",
+            "description": "Historic guesthouse in Old Delhi",
+            "beds": 4,
+            "bathrooms": 2,
+            "property_type": "Guesthouse",
+            "guests": 5,
+            "date": "May 15-20"
+          },
+          {
+            "photo": "https://i.ibb.co/WpzcBd6/beach3.webp",
+            "subcategory": "New",
+            "price": 240,
+            "rating": "4.4",
+            "location": "Newcastle, UK",
+            "description": "Riverside apartment in the heart of Newcastle",
+            "beds": 2,
+            "bathrooms": 1,
+            "property_type": "Apartment",
+            "guests": 2,
+            "date": "Jun 5-10"
+          },
+          {
+            "photo": "https://i.ibb.co/Vt5bQzT/bed7.webp",
+            "subcategory": "New",
+            "price": 230,
+            "rating": "4.9",
+            "location": "New Hampshire, USA",
+            "description": "Mountain cabin in the White Mountains",
+            "beds": 3,
+            "bathrooms": 2,
+            "property_type": "House",
+            "guests": 4,
+            "date": "Jul 15-20"
+          },
+          {
+            "photo": "https://i.ibb.co/JKC44HP/beach5.webp",
+            "subcategory": "New",
+            "price": 210,
+            "rating": "4.5",
+            "location": "Newfoundland, Canada",
+            "description": "Log cabin by a tranquil lake",
+            "beds": 2,
+            "bathrooms": 1,
+            "property_type": "House",
+            "guests": 2,
+            "date": "Aug 5-10"
+          },
+          {
+            "photo": "https://i.ibb.co/HG2Kkm8/city9.webp",
+            "subcategory": "New",
+            "price": 280,
+            "rating": "4.6",
+            "location": "New Orleans, USA",
+            "description": "Antebellum mansion in the Garden District",
+            "beds": 4,
+            "bathrooms": 3,
+            "property_type": "House",
+            "guests": 6,
+            "date": "Sep 15-20"
+          },
+          {
+            "photo": "https://i.ibb.co/MDk9nQS/city8.webp",
+            "subcategory": "New",
+            "price": 190,
+            "rating": "4.7",
+            "location": "New York City, USA",
+            "description": "Chic apartment in Brooklyn",
+            "beds": 2,
+            "bathrooms": 1,
+            "property_type": "Apartment",
+            "guests": 2,
+            "date": "Oct 5-10"
+          },
+          {
+            "photo": "https://i.ibb.co/c3m5r81/beach6.webp",
+            "subcategory": "New",
+            "price": 270,
+            "rating": "4.8",
+            "location": "New Zealand",
+            "description": "Lakefront house with mountain views",
+            "beds": 3,
+            "bathrooms": 2,
+            "property_type": "House",
+            "guests": 4,
+            "date": "Nov 15-20"
+          },
+          {
+            "photo": "https://i.ibb.co/D1c2jSb/vity5.webp",
+            "subcategory": "New",
+            "price": 200,
+            "rating": "4.6",
+            "location": "Newcastle, UK",
+            "description": "Modern apartment with city views",
+            "beds": 2,
+            "bathrooms": 1,
+            "property_type": "Apartment",
+            "guests": 2,
+            "date": "Dec 5-10"
+          },
+          {
+            "photo": "https://i.ibb.co/qsB3XMC/city4.webp",
+            "subcategory": "Cabins",
+            "price": 210,
+            "rating": "4.7",
+            "location": "New Delhi, India",
+            "description": "Spacious guesthouse in South Delhi",
+            "beds": 3,
+            "bathrooms": 2,
+            "property_type": "Guesthouse",
+            "guests": 4,
+            "date": "Jan 5-10"
+          },
+          {
+            "photo": "https://i.ibb.co/KycgfbM/city3.webp",
+            "subcategory": "Cabins",
+            "price": 230,
+            "rating": "4.9",
+            "location": "New Zealand",
+            "description": "Seaside apartment in Auckland",
+            "beds": 2,
+            "bathrooms": 1,
+            "property_type": "Apartment",
+            "guests": 2,
+            "date": "Feb 15-20"
+          },
+            {
+              "photo": "https://i.ibb.co/D1c2jSb/vity5.webp",
+              "subcategory": "Cabins",
+              "price": 250,
+              "rating": "4.6",
+              "location": "Newfoundland, Canada",
+              "description": "Seaside cottage in the Canadian wilderness",
+              "beds": 2,
+              "bathrooms": 1,
+              "property_type": "House",
+              "guests": 3,
+              "date": "Apr 5-10"
+            },
+            {
+              "photo": "https://i.ibb.co/JKC44HP/beach5.webp",
+              "subcategory": "Cabins",
+              "price": 260,
+              "rating": "4.7",
+              "location": "New Delhi, India",
+              "description": "Historic guesthouse in Old Delhi",
+              "beds": 4,
+              "bathrooms": 2,
+              "property_type": "Guesthouse",
+              "guests": 5,
+              "date": "May 15-20"
+            },
+            {
+              "photo": "https://i.ibb.co/WpzcBd6/beach3.webp",
+              "subcategory": "Cabins",
+              "price": 240,
+              "rating": "4.4",
+              "location": "Newcastle, UK",
+              "description": "Riverside apartment in the heart of Newcastle",
+              "beds": 2,
+              "bathrooms": 1,
+              "property_type": "Apartment",
+              "guests": 2,
+              "date": "Jun 5-10"
+            },
+            {
+              "photo": "https://i.ibb.co/vdybpHJ/mansion2.webp",
+              "subcategory": "Cabins",
+              "price": 230,
+              "rating": "4.9",
+              "location": "New Hampshire, USA",
+              "description": "Mountain cabin in the White Mountains",
+              "beds": 3,
+              "bathrooms": 2,
+              "property_type": "House",
+              "guests": 4,
+              "date": "Jul 15-20"
+            },
+            {
+              "photo": "https://i.ibb.co/JKC44HP/beach5.webp",
+              "subcategory": "Cabins",
+              "price": 210,
+              "rating": "4.5",
+              "location": "Newfoundland, Canada",
+              "description": "Log cabin by a tranquil lake",
+              "beds": 2,
+              "bathrooms": 1,
+              "property_type": "House",
+              "guests": 2,
+              "date": "Aug 5-10"
+            },
+            {
+              "photo": "https://i.ibb.co/HG2Kkm8/city9.webp",
+              "subcategory": "Cabins",
+              "price": 280,
+              "rating": "4.6",
+              "location": "New Orleans, USA",
+              "description": "Antebellum mansion in the Garden District",
+              "beds": 4,
+              "bathrooms": 3,
+              "property_type": "House",
+              "guests": 6,
+              "date": "Sep 15-20"
+            },
+            {
+              "photo": "https://i.ibb.co/MDk9nQS/city8.webp",
+              "subcategory": "Cabins",
+              "price": 190,
+              "rating": "4.7",
+              "location": "New York City, USA",
+              "description": "Chic apartment in Brooklyn",
+              "beds": 2,
+              "bathrooms": 1,
+              "property_type": "Apartment",
+              "guests": 2,
+              "date": "Oct 5-10"
+            },
+            {
+              "photo": "https://i.ibb.co/bWt9bF0/tropical.webp",
+              "subcategory": "Cabins",
+              "price": 270,
+              "rating": "4.8",
+              "location": "New Zealand",
+              "description": "Lakefront house with mountain views",
+              "beds": 3,
+              "bathrooms": 2,
+              "property_type": "House",
+              "guests": 4,
+              "date": "Nov 15-20"
+            },
+            {
+              "photo": "https://i.ibb.co/D1c2jSb/vity5.webp",
+              "subcategory": "Cabins",
+              "price": 200,
+              "rating": "4.6",
+              "location": "Newcastle, UK",
+              "description": "Modern apartment with city views",
+              "beds": 2,
+              "bathrooms": 1,
+              "property_type": "Apartment",
+              "guests": 2,
+              "date": "Dec 5-10"
+            }, 
+              {
+                "photo": "https://i.ibb.co/YfPXtJd/bed5.webp",
+                "subcategory": "Cabins",
+                "price": 250,
+                "rating": "4.6",
+                "location": "Maui, Hawaii, USA",
+                "description": "Beachfront house in paradise",
+                "beds": 3,
+                "bathrooms": 2,
+                "property_type": "House",
+                "guests": 4,
+                "date": "Jun 5-10"
+              },
+              {
+                "photo": "https://i.ibb.co/c3jyvLh/mansion6.webp",
+                "subcategory": "Beach",
+                "price": 200,
+                "rating": "4.6",
+                "location": "Miami Beach, Florida, USA",
+                "description": "Beachfront apartment in Miami",
+                "beds": 2,
+                "bathrooms": 1,
+                "property_type": "Apartment",
+                "guests": 2,
+                "date": "Nov 15-20"
+              },
+              {
+                "photo": "https://i.ibb.co/Kwj8jLv/bed7.webp",
+                "subcategory": "Beach",
+                "price": 300,
+                "rating": "4.7",
+                "location": "Malibu, California, USA",
+                "description": "Beachfront guesthouse with ocean views",
+                "beds": 2,
+                "bathrooms": 1,
+                "property_type": "Guesthouse",
+                "guests": 2,
+                "date": "May 15-20"
+              },
+              {
+                "photo": "https://i.ibb.co/hVWq7hR/mansion10.webp",
+                "subcategory": "Beach",
+                "price": 320,
+                "rating": "4.8",
+                "location": "Phuket, Thailand",
+                "description": "Luxury beachfront villa with a pool",
+                "beds": 4,
+                "bathrooms": 3,
+                "property_type": "House",
+                "guests": 6,
+                "date": "Aug 5-10"
+              },
+              {
+                "photo": "https://i.ibb.co/h14kx4t/mansion8.webp",
+                "subcategory": "Beach",
+                "price": 280,
+                "rating": "4.7",
+                "location": "Bali, Indonesia",
+                "description": "Beachfront guesthouse in Bali",
+                "beds": 3,
+                "bathrooms": 2,
+                "property_type": "Guesthouse",
+                "guests": 4,
+                "date": "Sep 15-20"
+              },
+              {
+                "photo": "https://i.ibb.co/9vzvTVc/mansion7.webp",
+                "subcategory": "Beach",
+                "price": 350,
+                "rating": "4.9",
+                "location": "Seychelles",
+                "description": "Private beachfront villa in Seychelles",
+                "beds": 4,
+                "bathrooms": 3,
+                "property_type": "House",
+                "guests": 6,
+                "date": "Oct 5-10"
+              },
+              {
+                "photo": "https://i.ibb.co/WDbpQDK/mansion4.webp",
+                "subcategory": "Beach",
+                "price": 300,
+                "rating": "4.7",
+                "location": "Mauritius",
+                "description": "Beachfront house with a view in Mauritius",
+                "beds": 3,
+                "bathrooms": 2,
+                "property_type": "House",
+                "guests": 4,
+                "date": "Dec 5-10"
+              },
+              {
+                "photo": "https://i.ibb.co/Wgx2hyB/camp.webp",
+                "subcategory": "Beach",
+                "price": 220,
+                "rating": "4.5",
+                "location": "Rio de Janeiro, Brazil",
+                "description": "Beachfront apartment in Copacabana",
+                "beds": 2,
+                "bathrooms": 1,
+                "property_type": "Apartment",
+                "guests": 2,
+                "date": "Jan 5-10"
+              },
+              {
+                "photo": "https://i.ibb.co/JKC44HP/beach5.webp",
+                "subcategory": "Beach",
+                "price": 320,
+                "rating": "4.8",
+                "location": "Bora Bora, French Polynesia",
+                "description": "Overwater bungalow in paradise",
+                "beds": 1,
+                "bathrooms": 1,
+                "property_type": "House",
+                "guests": 2,
+                "date": "Feb 15-20"
+              },
+              {
+                "photo": "https://i.ibb.co/SPDWPc0/camp3.webp",
+                "subcategory": "Beach",
+                "price": 250,
+                "rating": "4.6",
+                "location": "Barbados",
+                "description": "Beachfront apartment in Barbados",
+                "beds": 2,
+                "bathrooms": 1,
+                "property_type": "Apartment",
+                "guests": 2,
+                "date": "Mar 10-15"
+              },
+              {
+                "photo": "https://i.ibb.co/7RCbm4t/camp4.webp",
+                "subcategory": "Beach",
+                "price": 280,
+                "rating": "4.7",
+                "location": "Phuket, Thailand",
+                "description": "Beachfront villa in Phuket",
+                "beds": 3,
+                "bathrooms": 2,
+                "property_type": "House",
+                "guests": 4,
+                "date": "Apr 5-10"
+              },
+              {
+                "photo": "https://i.ibb.co/rb6pMVx/room6.webp",
+                "subcategory": "Beach",
+                "price": 480,
+                "rating": "4.8",
+                "location": "Phuket, Japan",
+                "description": "Beachfront near tokyo",
+                "beds": 5,
+                "bathrooms": 2,
+                "property_type": "House",
+                "guests": 7,
+                "date": "Apr 9-13"
+              },
+              {
+                "photo": "https://i.ibb.co/vmS3Zmw/t4.webp",
+                "subcategory": "Beach",
+                "price": 480,
+                "rating": "4.8",
+                "location": "Barcelona, Spain",
+                "description": "south barcelona tokyo",
+                "beds": 4,
+                "bathrooms": 3,
+                "property_type": "House",
+                "guests": 3,
+                "date": "Dec 9-13"
+              }
+ 
     ]                   
