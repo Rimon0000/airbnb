@@ -18,7 +18,7 @@ const Category = () => {
 
     return (
         <div>
-            <h2 className='font-semibold text-2xl text-center m-5 p-5'>Our Categories</h2>
+            <div className="my-8"><hr /></div>
             <Tabs>
                <TabList className='text-center font-semibold mb-5'>
                  <Tab onClick={() => setTabValue("Rooms")}>

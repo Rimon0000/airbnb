@@ -1,10 +1,11 @@
 import Category from "../Category/Category";
+import Navbar from "../Navbar/Navbar";
 
 
 const Home = () => {
     return (
         <div>
-            <h2>This is Home</h2>
+            <Navbar></Navbar>
             <Category></Category>
         </div>
     );
