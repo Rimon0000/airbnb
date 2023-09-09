@@ -1,7 +1,7 @@
 import { FaStar } from "react-icons/fa";
 
 const SubCategory = ( {item} ) => {
-    console.log(item)
+    // console.log(item)
     const {photo, location, rating, price, description, date} = item
     return (
         <div className="card card-compact mx-auto bg-base-100 px-5">
@@ -9,7 +9,7 @@ const SubCategory = ( {item} ) => {
           <div className="card-body">
             <div className="flex justify-between items-center">
               <div>
-              <h2 className="text-base font-semibold">Location: {location}</h2>
+              <h2 className="text-base font-semibold">{location}</h2>
               </div>
               <div className="flex items-center gap-1">
                 <p><FaStar/></p>

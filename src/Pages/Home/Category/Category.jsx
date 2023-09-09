@@ -8,6 +8,7 @@ import { GiHighGrass, GiHomeGarage, GiPalmTree, GiSkeletonKey, GiUmbrella, GiWoo
 const Category = () => {
     const [allCategory, setAllCategory] = useState([])
     const [tabValue, setTabValue] = useState("Rooms")
+    const [searchQuery, setSearchQuery] = useState('');
     
 
    useEffect(() =>{
@@ -16,9 +17,32 @@ const Category = () => {
      .then(data => setAllCategory(data))
    },[tabValue])
 
+     //search
+      const handleSearch = () => {
+        const results = allCategory.filter(item => item.location.toLowerCase().includes(searchQuery.toLowerCase()));
+        setAllCategory(results);
+      };
+
     return (
         <div>
-            <div className="my-8"><hr /></div>
+            <div className="my-2"><hr /></div>
+            <div className="flex justify-between my-10 mx-10">
+            <div className="flex gap-2">
+                <div className="form-control">
+                <input value={searchQuery}
+                onChange={event => setSearchQuery(event.target.value)} type="text" placeholder="Search" className="input input-bordered w-100" />
+                </div>
+                <div>
+                <button className='btn btn-primary' onClick={handleSearch}>Search</button>
+                </div>
+                <div>
+                 {allCategory.length > 0 ? "" : <p className="font-semibold pt-3">No results found.</p>}
+                </div>
+            </div>
+              <div>
+              <button className="btn btn-outline">filter</button>
+              </div>
+            </div>
             <Tabs>
                <TabList className='text-center font-semibold mb-5'>
                  <Tab onClick={() => setTabValue("Rooms")}>
@@ -40,6 +64,8 @@ const Category = () => {
                  <div className="ml-4"><GiUmbrella/></div>
                     Beach</Tab>
                </TabList>
+
+               
            
                <TabPanel>
                  <div className='grid md:grid-cols-4 sm:grid-cols-1'>
