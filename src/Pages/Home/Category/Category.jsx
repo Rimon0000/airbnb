@@ -3,16 +3,17 @@ import { Tab, TabList, TabPanel, Tabs } from "react-tabs";
 import 'react-tabs/style/react-tabs.css';
 import SubCategory from "../SubCategory/SubCategory";
 import { GiHighGrass, GiHomeGarage, GiPalmTree, GiSkeletonKey, GiUmbrella, GiWoodCabin, } from "react-icons/gi";
-
+import { CiSliderHorizontal } from "react-icons/ci";
+import Filter from "../Filter/Filter";
 
 const Category = () => {
     const [allCategory, setAllCategory] = useState([])
     const [tabValue, setTabValue] = useState("Rooms")
     const [searchQuery, setSearchQuery] = useState('');
-    
+
 
    useEffect(() =>{
-     fetch(`http://localhost:5000/allServices/${tabValue}`)
+     fetch(`https://airbnb-server-rimon0000.vercel.app/allServices/${tabValue}`)
      .then(res => res.json())
      .then(data => setAllCategory(data))
    },[tabValue])
@@ -39,8 +40,12 @@ const Category = () => {
                  {allCategory.length > 0 ? "" : <p className="font-semibold pt-3">No results found.</p>}
                 </div>
             </div>
+
               <div>
-              <button className="btn btn-outline">filter</button>
+              <button className="btn btn-outline" onClick={()=>document.getElementById('my_modal_5').showModal()}><CiSliderHorizontal/> filter</button>
+              <dialog id="my_modal_5" className="modal modal-bottom sm:modal-middle">
+                <Filter></Filter>
+              </dialog>
               </div>
             </div>
             <Tabs>
